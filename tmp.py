@@ -1,4 +1,6 @@
-"""Funcs example"""
+"""
+Funcs example
+"""
 
 
 def fibonacci(x0: int, x1: int) -> int:
